@@ -2,9 +2,7 @@
 
 I’m a software developer based in Nigeria 🇳🇬, focused on building scalable, reliable web applications and backend systems that solve real-world problems. My core stack revolves around PHP (Laravel), JavaScript (Vue.js), and Go, with experience designing and integrating RESTful APIs, as well as working with both SQL and NoSQL databases like MySQL and MongoDB.
 
-I enjoy turning complex ideas into simple, maintainable systems — whether that’s building products from scratch, improving existing architectures, or optimizing performance for real users at scale. Beyond writing code, I also share knowledge through technical writing, contributing to platforms like [Twilio Blog](https://twilio.com/en-us/blog/authors/author.manumadu?page=1),  
-[Laravel News](https://laravel-news.com/@alloyking1),  
-and [DataCamp](https://www.datacamp.com/tutorial/search-images-and-text-using-mongodb-vector-search) to mention a few.
+I enjoy turning complex ideas into simple, maintainable systems — whether that’s building products from scratch, improving existing architectures, or optimizing performance for real users at scale. Beyond writing code, I also share knowledge through technical writing, contributing to platforms like [Twilio Blog](https://twilio.com/en-us/blog/authors/author.manumadu?page=1), [Laravel News](https://laravel-news.com/@alloyking1), and [DataCamp](https://www.datacamp.com/tutorial/search-images-and-text-using-mongodb-vector-search) to mention a few.
 
 Currently, I’m open to remote opportunities, freelance projects, and collaborations where I can contribute to meaningful products, grow as an engineer, and work with teams that value clean code, thoughtful design, and continuous learning.
 
